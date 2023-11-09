@@ -1,0 +1,12 @@
+.mm{
+ border-style: solid;
+    width: 50em;
+    text-align: center;
+
+}
+body{
+
+    display: grid;
+    place-items: center;
+
+}
